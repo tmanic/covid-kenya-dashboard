@@ -15,9 +15,9 @@ This is an interactive Shiny dashboard built using R to visualize COVID-19 case 
 
 ## Screenshot
 
-![screenshot](images/covid_dashboard.png)
+![screenshot](screenshot.png)
 
-## Tools Used
+## Tools Used!
 
 -   R
 -   Shiny
